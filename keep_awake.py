@@ -3,6 +3,9 @@ import time
 
 
 def keep_awake():
-    while True:
+    counter = 1
+
+    while counter == 10:
         c.windll.kernel32.SetThreadExecutionState(0x80000002)
-        time.sleep(10)
+        time.sleep(600)  # 10 seconds
+        counter += 1

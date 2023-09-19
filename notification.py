@@ -34,7 +34,6 @@ def notify():
     # Timer that execute the keep_awake method in certain period of time
     timer = QTimer()
     timer.timeout.connect(keep_awake)
-    timer.start(590)  # 9 minutes and 50 seconds
-    # timer.start(10_000) # 10 seconds test period of time
+    timer.start(10000)  # 10 seconds test period of time
 
     sys.exit(app.exec_())
