@@ -6,8 +6,8 @@ Welcome to the "My Screen Awake App" repository! This application keeps your scr
 
 You can download the latest release of the application from the [Releases](https://github.com/achkatam/screen-awake-app/releases) page. Choose the appropriate version for your system:
 
-- [Download .exe file](https://github.com/achkatam/screen-awake-app/releases/download/v1.2/__main__.exe) (Windows)
-- [Download .zip file](https://github.com/achkatam/screen-awake-app/archive/refs/tags/v1.2.zip) (Source code)
+- [Download .exe file](https://github.com/achkatam/screen-awake-app/releases/download/v1.4/__main__.exe) (Windows)
+- [Download .zip file](https://github.com/achkatam/screen-awake-app/archive/refs/tags/v1.4.zip) (Source code)
 
 ## Usage
 
